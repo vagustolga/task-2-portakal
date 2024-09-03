@@ -7,3 +7,7 @@ Console.WriteLine("Task 2 Prtakal");
 Console.WriteLine("Task 2 Prtakal");
 Console.WriteLine("Task 2 Prtakal");
 Console.WriteLine("Task 2 Prtakal");
+
+/*
+ * T2P-5 için girilen sorunun çözümü
+ */
