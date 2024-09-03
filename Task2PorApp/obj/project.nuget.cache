@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMdv+o7kt5w=",
+  "success": true,
+  "projectFilePath": "/Users/vagustolga/RiderProjects/Task2PorApp/Task2PorApp/Task2PorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/vagustolga/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.7/microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "/Users/vagustolga/.nuget/packages/microsoft.net.illink.tasks/8.0.7/microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "/Users/vagustolga/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.7/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

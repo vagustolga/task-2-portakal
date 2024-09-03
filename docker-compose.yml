@@ -1,0 +1,6 @@
+﻿services:
+  task2porapp:
+    image: task2porapp
+    build:
+      context: .
+      dockerfile: Task2PorApp/Dockerfile
