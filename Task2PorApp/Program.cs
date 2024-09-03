@@ -2,3 +2,8 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Task 2 Prtakal");
+Console.WriteLine("Task 2 Prtakal");
+Console.WriteLine("Task 2 Prtakal");
+Console.WriteLine("Task 2 Prtakal");
+Console.WriteLine("Task 2 Prtakal");
+Console.WriteLine("Task 2 Prtakal");
